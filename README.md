@@ -56,3 +56,12 @@ Project Organization
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 
+### Dataset sources
+
+The data are saved in Google Dive People > Zhengtong Pan > Lyst_helper > lyst_helper > data. 
+
+### Steps to extract trends data
+- Run extract_brands_trends.py under src_features
+
+### Obtain extracted features
+- lyst_fashion_trend_final.xlsx will be generated under src_features
